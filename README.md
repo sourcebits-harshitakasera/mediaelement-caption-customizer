@@ -30,7 +30,7 @@ Thanks to [John Dyer](https://github.com/johndyer), creator of [MediaElement Pla
 		    captionColor: "#FBD631",
 		    captionSize: "24px",
 		    captionBackground : "black",
-		    captionFont: "Helevetica Nevue"
+		    captionFont: "Arial"
 	});
 
 # Testing
