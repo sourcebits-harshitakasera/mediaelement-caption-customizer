@@ -10,7 +10,7 @@
     });
 
     $.extend(MediaElementPlayer.prototype, {
-        buildcaptionator: function (player, controls, layers, media) {
+        buildcaptioncustomizer: function (player, controls, layers, media) {
             var $caption_text_container = $('.mejs-captions-text'),
                 $caption_container = $caption_text_container.parent();
 
