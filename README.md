@@ -8,7 +8,7 @@ __License__   - GPLv2/MIT
 
 # Introduction
 
-MediaElement-Caption-Customizer  is a <code>MediaElement.js</code> plugin that lets you customize the visual appearance and the positioning* of the captions.The font, color, size, background, position of the captions are all configurable. 
+MediaElement-Caption-Customizer  is a <code>MediaElement.js</code> plugin that lets you customize the visual appearance and the positioning of the captions.The font, color, size, background, position of the captions are all configurable. 
 
 <code>*Note</code>&nbsp; Top position and the default position of captions in MediaElement CSS is only supported currently.
 
