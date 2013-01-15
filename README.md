@@ -1,4 +1,4 @@
-#MediaElement-Captionator - Customize Captions
+#MediaElement-Caption-Customizer - Customize Captions
 
 __Author__   - Harshita Kasera  
 __License__   - GPLv2/MIT 
@@ -6,7 +6,7 @@ __License__   - GPLv2/MIT
 
 # Introduction
 
-MediaElement-Captionator is a <code>MediaElement.js</code> plugin that lets you customize the visual appearance of the captions.The font,color,size,background,position of the captions are all configurable. 
+MediaElement-Caption-Customizer  is a <code>MediaElement.js</code> plugin that lets you customize the visual appearance and positioning of the captions.The font, color, size, background, position of the captions are all configurable. 
 
 
 # Credits
@@ -20,12 +20,12 @@ Thanks to [John Dyer](https://github.com/johndyer), creator of [MediaElement Pla
 ### Installation
     <script src="jquery.js"></script>
     <script src="mediaelement-and-player.min.js"></script>
-    <script src="mep-feature-captionator.js"></script>
+    <script src="mep-feature-caption-customizer.js"></script>
     <link rel="stylesheet" href="mediaelementplayer.css" />
 
 ### Usage
     $('#player2').mediaelementplayer({
-  	    features: ['playpause','current','progress','duration','tracks','captionator'],
+  	    features: ['playpause','current','progress','duration','tracks','captioncustomizer'],
 		    startLanguage:'en',
 		    captionColor: "#FBD631",
 		    captionSize: "24px",
