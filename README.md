@@ -1,5 +1,7 @@
 #MediaElement-Caption-Customizer - Customize Captions
 
+![MediaElement Caption Customizer](https://raw.github.com/sourcebits-harshitakasera/mediaelement-caption-customizer/master/snapshots/caption-customizer.png "Caption Customizer")
+
 __Author__   - Harshita Kasera  
 __License__   - GPLv2/MIT 
 
