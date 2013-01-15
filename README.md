@@ -38,8 +38,8 @@ Thanks to [John Dyer](https://github.com/johndyer), creator of [MediaElement Pla
 	});
 
 # Testing
-    *IE7 - Flash 
-    *IE8 - Flash
+    IE7 - Flash 
+    IE8 - Flash
     IE9, IE10 - MP4
     Firefox - Ogv
     Chrome - Webm
